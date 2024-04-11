@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>Hi react </h1>
       <h2>Hi Mystrigyy</h2>
-      <button>click me </button>
+      <button>click mee </button>
     </div>
   );
 }
